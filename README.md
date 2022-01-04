@@ -21,7 +21,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-API for task manager. it builds to manage personal tasks. Don't worry about your data in API, your tasks can't be accessed from another users in API, protect the data before it saved in database. User can keep in touch the task day-to-day. [Try in your Postman](https://ariya-task-manager.herokuapp.com/).
+API for task manager. It builds to manage personal tasks. Don't worry about your data in API, your tasks can't be accessed from another users in API, protect the data before it saved in database. User can keep in touch the task day-to-day. [Try in your Postman](https://ariya-task-manager.herokuapp.com/).
 
 #### Technologies
 
